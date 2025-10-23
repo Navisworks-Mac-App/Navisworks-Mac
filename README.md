@@ -1,7 +1,7 @@
 # Navisworks – Intelligent 3D Project Review & Coordination Platform
 
 <div align="center">
-  <img src="https://integrations.bluebeam.com/wp-content/uploads/2025/04/logo-navisworks.png" width="250"/>
+  <img src="https://damassets.autodesk.net/content/dam/autodesk/www/product-imagery/svg/product-icon/full/navisworks-manage-full-product-icon.svg" width="220"/>
 </div>  
 <br>
 <div align="center">
@@ -20,7 +20,7 @@
 ---
 
 <div align="center">
-  <img src="https://damassets.autodesk.net/content/dam/autodesk/www/products/navisworks/fy23/overview/images/what-is-navisworks-thumb-1172x660.jpg" width="1080"/>
+  <img src="https://damassets.autodesk.net/content/dam/autodesk/www/products/navisworks/fy23/overview/images/what-is-navisworks-thumb-1172x660.jpg" width="700"/>
 </div>  
 <br>
 
